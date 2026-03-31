@@ -1,0 +1,6 @@
+Flask
+requests
+tldextract
+python-whois
+scikit-learn
+pandas

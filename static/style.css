@@ -1,0 +1,55 @@
+            body {
+    margin: 0;
+    font-family: Arial;
+    background: #020617;
+    color: white;
+    text-align: center;
+}
+
+.navbar {
+    padding: 15px;
+    font-size: 20px;
+    background: #0f172a;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.highlight {
+    color: #14b8a6;
+}
+
+input {
+    width: 400px;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+}
+
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #14b8a6;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.report-btn {
+    background: #ef4444;
+}
+
+.result {
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.safe { color: #22c55e; }
+.medium { color: #facc15; }
+.high { color: #ef4444; }
