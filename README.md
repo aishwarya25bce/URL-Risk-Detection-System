@@ -1,4 +1,4 @@
-# 🔐 SafeClick – URL-Risk-Detection-System
+#  SafeClick – URL-Risk-Detection-System
 
 SafeClick is a web-based security application that analyzes URLs for phishing, malicious intent, and suspicious behavior using a combination of rule-based checks and machine learning.
 
@@ -6,27 +6,27 @@ It helps users determine whether a link is **Safe, Suspicious, or Dangerous** be
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 URL risk analysis in real-time  
-- 🤖 Machine Learning-based prediction  
-- 🧠 Pattern-based phishing detection  
-- 🌐 Domain trust analysis  
-- 🔁 Redirect tracking  
-- 📊 Risk scoring system (0–100)  
-- 🧾 Explanation of detected risks  
-- 📱 QR code scanning support  
-- 🚨 User reporting system (domain memory)
+-  URL risk analysis in real-time  
+-  Machine Learning-based prediction  
+-  Pattern-based phishing detection  
+-  Domain trust analysis  
+-  Redirect tracking  
+-  Risk scoring system (0–100)  
+-  Explanation of detected risks  
+-  QR code scanning support  
+-  User reporting system (domain memory)
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ![structure](https://github.com/user-attachments/assets/03c2c035-e6e3-4730-8123-3d416ce6d730)
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User inputs a URL or scans a QR code  
 2. URL is normalized and cleaned  
@@ -62,7 +62,7 @@ It helps users determine whether a link is **Safe, Suspicious, or Dangerous** be
 
 ---
 
-## 🧪 Running the Project
+##  Running the Project
 
 ### 1. Install dependencies
 
